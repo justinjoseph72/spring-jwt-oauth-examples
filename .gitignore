@@ -1,0 +1,36 @@
+simple-web-mvc-client/target/
+spring-jwt-rest-security-demo/target/
+spring-security-oauth-example/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+simple-web-mvc-client/.idea
+simple-web-mvc-client/*.iws
+simple-web-mvc-client/*.iml
+simple-web-mvc-client/*.ipr
+
+spring-jwt-rest-security-demo/.idea
+spring-jwt-rest-security-demo/*.iws
+spring-jwt-rest-security-demo/*.iml
+spring-jwt-rest-security-demo/*.ipr
+
+spring-security-oauth-example/.idea
+spring-security-oauth-example/*.iws
+spring-security-oauth-example/*.iml
+spring-security-oauth-example/*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
